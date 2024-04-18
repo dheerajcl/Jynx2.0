@@ -128,3 +128,11 @@ Now app is fully configured 👍 and you can start using this app using either o
 And make sure to push your db to prisma `npx prisma db push` before starting.
 
 **NOTE:** Please make sure to keep your API keys and configuration values secure and do not expose them publicly.
+
+
+## :gear: Tech Stack
+
+[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel") [![Postgresql](https://skillicons.dev/icons?i=postgres "Postgresql")](https://www.postgresql.org/ "Postgresql")
+
+
+
