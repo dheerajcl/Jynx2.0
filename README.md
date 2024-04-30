@@ -1,4 +1,4 @@
-# Ignite - Chat with your PDF's
+# Jynx - Chat with your PDF's
 
 ## :toolbox: Getting Started
 
